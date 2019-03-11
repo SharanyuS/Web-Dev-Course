@@ -1,0 +1,75 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#one {
+border-style: solid;
+position: fixed;
+border-color: blue;
+border-width: 7px;
+margin-top: 0;
+  width:25%;
+  margin-bottom:0;
+  margin-right: 0;
+  margin-left:0;
+width: 25%;
+right: 0;
+bottom: 0;
+    
+}
+#two{   
+position: fixed;
+border-style: solid;
+border-color: green;
+width: 25%
+margin-top: 0;
+  width:25%;
+  margin-bottom:7px;
+  margin-top: 0%;
+  margin-right: 0;
+  margin-left:100%;
+border-width: 7px;
+top: 0;
+right: 0;
+
+ }
+ #three{
+border-style: solid;
+border-color: orange;
+border-width: 7px;
+position:fixed;
+  margin-top: 0;
+  width:25%;
+  margin-bottom:0;
+  margin-right: 0;
+  margin-left:0;
+top: 0;
+left: 0;
+
+ }
+ #four{ 
+border-style: solid;
+border-color: yellow;
+border-width: 7px;
+margin-top: 0;
+  width:25%;
+  margin-bottom:0 ;
+  margin-right: 0;
+  margin-left:0;
+position: fixed;
+width: 25%;
+left: 0;
+bottom: 0;
+
+  }
+  #link{ text-align: center;
+  	color:  white;
+  	margin-top: 0;
+  	width:100px;
+  	position: absolute;
+  	background: blue;
+  	left: 42%;
+    
+  	
+
+   }
+
