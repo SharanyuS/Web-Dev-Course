@@ -32,7 +32,7 @@ if ( isset($_POST['who']) && isset($_POST['pass']) ) {
 <html>
 <head>
 <?php require_once "bootstrap.php"; ?>
-<title> Deepanshu Sehgal e5eded35</title>
+<title>nYuker</title>
 </head>
 <body>
 <div class="container">
